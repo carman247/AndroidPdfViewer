@@ -70,14 +70,14 @@ afterEvaluate {
                     }
                     developers {
                         developer {
-                            id = 'min'
-                            name = 'Min Hiew'
+                            id = 'chriscarman'
+                            name = 'Chris Carman'
                         }
                     }
                     scm {
-                        connection = 'scm:git:https://github.com/mhiew/AndroidPdfViewer'
-                        developerConnection = 'scm:git:ssh:github.com:mhiew/AndroidPdfViewer.git'
-                        url = 'https://github.com/mhiew/AndroidPdfViewer'
+                        connection = 'scm:git:https://github.com/carman247/AndroidPdfViewer'
+                        developerConnection = 'scm:git:ssh:github.com:carman247/AndroidPdfViewer.git'
+                        url = 'https://github.com/carman247/AndroidPdfViewer'
                     }
                 }
             }
