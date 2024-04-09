@@ -8,6 +8,7 @@ android {
         targetSdkVersion rootProject.tools.targetSdk
         versionCode 1
         versionName "${rootProject.tools.versionName}"
+        ndkVersion "21.3.6528147"
     }
 
 }
